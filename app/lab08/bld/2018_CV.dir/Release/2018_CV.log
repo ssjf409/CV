@@ -1,0 +1,18 @@
+﻿  Building Custom Rule D:/project/app/lab08/src/CMakeLists.txt
+  CMake does not need to re-run because D:/project/app/lab08/bld/CMakeFiles/generate.stamp is up-to-date.
+  inu_generalized_hough_transform.cpp
+  inu_object_identification.cpp
+d:\project\app\lab08\src\inu_object_identification.cpp(54): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+d:\project\app\lab08\src\inu_object_identification.cpp(284): warning C4244: '*=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\project\app\lab08\src\inu_object_identification.cpp(522): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+d:\project\app\lab08\src\inu_object_identification.cpp(567): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+  main.cpp
+d:\project\app\lab08\src\main.cpp(15): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+d:\project\app\lab08\src\main.cpp(28): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...
+  2018_CV.vcxproj -> D:\project\app\lab08\bin\Release\2018_CV.exe

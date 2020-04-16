@@ -1,0 +1,3 @@
+D:/project/app/lab01/bld/CMakeFiles/basic_opencv.dir
+D:/project/app/lab01/bld/CMakeFiles/ALL_BUILD.dir
+D:/project/app/lab01/bld/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,3 @@
+D:/project/app/lab08/bld/CMakeFiles/2018_CV.dir
+D:/project/app/lab08/bld/CMakeFiles/ALL_BUILD.dir
+D:/project/app/lab08/bld/CMakeFiles/ZERO_CHECK.dir

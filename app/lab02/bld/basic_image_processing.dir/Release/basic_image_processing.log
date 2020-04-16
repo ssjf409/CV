@@ -1,0 +1,4 @@
+﻿  Building Custom Rule D:/project/app/lab02/src/CMakeLists.txt
+  CMake does not need to re-run because D:/project/app/lab02/bld/CMakeFiles/generate.stamp is up-to-date.
+  main.cpp
+  basic_image_processing.vcxproj -> D:\project\app\lab02\bin\Release\basic_image_processing.exe

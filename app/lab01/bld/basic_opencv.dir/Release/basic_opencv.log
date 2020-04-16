@@ -1,0 +1,4 @@
+﻿  Building Custom Rule D:/project/app/lab01/src/CMakeLists.txt
+  CMake does not need to re-run because D:/project/app/lab01/bld/CMakeFiles/generate.stamp is up-to-date.
+  main.cpp
+  basic_opencv.vcxproj -> D:\project\app\lab01\bin\Release\basic_opencv.exe

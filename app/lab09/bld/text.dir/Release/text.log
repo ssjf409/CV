@@ -1,0 +1,4 @@
+﻿  Building Custom Rule D:/project/app/lab09/src/CMakeLists.txt
+  CMake does not need to re-run because D:/project/app/lab09/bld/CMakeFiles/generate.stamp is up-to-date.
+  text_detection.cpp
+  text.vcxproj -> D:\project\app\lab09\bin\Release\text.exe

@@ -1,0 +1,4 @@
+﻿  Building Custom Rule D:/project/app/hello/src/CMakeLists.txt
+  CMake does not need to re-run because D:/project/app/hello/bld/CMakeFiles/generate.stamp is up-to-date.
+  main.cpp
+  hello.vcxproj -> D:\project\app\hello\bin\Release\hello.exe

@@ -1,0 +1,3 @@
+D:/project/app/lab02/bld/CMakeFiles/basic_image_processing.dir
+D:/project/app/lab02/bld/CMakeFiles/ALL_BUILD.dir
+D:/project/app/lab02/bld/CMakeFiles/ZERO_CHECK.dir

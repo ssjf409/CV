@@ -1,0 +1,5 @@
+D:/project/app/lab09/bld/CMakeFiles/face.dir
+D:/project/app/lab09/bld/CMakeFiles/pedestrian.dir
+D:/project/app/lab09/bld/CMakeFiles/text.dir
+D:/project/app/lab09/bld/CMakeFiles/ALL_BUILD.dir
+D:/project/app/lab09/bld/CMakeFiles/ZERO_CHECK.dir
