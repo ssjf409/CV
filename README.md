@@ -32,6 +32,8 @@
 
  
 
+소스 코드 : https://github.com/ssjf409/CV/blob/master/app/assignment/term_project/circle_detection.cpp
+
 int sumY = sumX = 0;
 int cnt = 0;
 for(int i = 0; i < height; i++) {
