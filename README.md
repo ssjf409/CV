@@ -18,6 +18,10 @@
 
 ### 알고리즘
 
+![image](https://user-images.githubusercontent.com/35087350/83962384-d39df180-a8d7-11ea-98fe-c76164548b5c.png)
+![image](https://user-images.githubusercontent.com/35087350/83962391-dd275980-a8d7-11ea-95c3-d80209d1562f.png)
+
+
 
 
 1. 이미지에서 특정색(sphere object의 색)을 제외하고 전부 마스크 처리 하여, 전부 값을 지운다. (그림2)
@@ -74,7 +78,8 @@ double centerX = (double)sumX / cnt;
 
 아이디어 : 원 내부에 직각 삼각형을 그리면 직각 삼각형의 무게 중심은 항상 원의 중심점이 된다.
 
- 
+![image](https://user-images.githubusercontent.com/35087350/83962399-e6b0c180-a8d7-11ea-96f5-930daedac54d.png)
+
 
 1. line dectection으로 경계면들을 구해준다.
 
