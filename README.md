@@ -2,22 +2,21 @@
 컴퓨터 비전(computer vision)
 
 
-18년도 가을에 opencv를 이용해서 공부했었다.
-
-
 ## 프로젝트 명 : 빨간 공 찾기
-# 프로젝트 기간 : 2018.11 ~ 2018.12
-# 개발 단계 : 완성
-# 기술 스택 : C++, openCV
-# 소스 코드 : github.com/ssjf409/CV/tree/master/app/assignment/term_project
-프로젝트 내용
-개발 의도
+## 프로젝트 기간 : 2018.11 ~ 2018.12
+## 개발 단계 : 완성
+## 기술 스택 : C++, openCV
+## 소스 코드 : github.com/ssjf409/CV/tree/master/app/assignment/term_project
+
+
+## 프로젝트 내용
+### 개발 의도
 
 디즈니 애니메이션에서는 실제로 연기를 하는 배우와 컴퓨터 그래픽의 이미지를 합치는 과정을 통해서 애니메이션을 만든다고 한다. 이 때, 다양한 각도의 영상을 얻기 위해서 여러 대의 카메라를 사용하는데, 다중 카메라의 좌표계를 일치시키기 위해서는 다중 카메라로 획득한 영산간의 대응쌍(match or correspondence)을 찾아야 한다. 이를 위해서 단일 컬러로 채색된 sphere object가 많이 사용된다. 서로 다른 두 영상에서 동일한 sphere object를 각각 정확하게 검출(detection) 할 수 있으면, 대응점 탐색(correspondence search) 및 정합 (matching) 과정 없이 검출만으로 두 영상 간의 대응쌍을 찾을 수 있게 된다. 이 때, 실시간으로 적용이 가능하도록 circle Hough transform보다 속도와 정확도 측면에서 성능이 우수한 알고리즘을 만들어 보는 것이다.
 
  
 
-알고리즘
+### 알고리즘
 
 
 
@@ -54,7 +53,7 @@ double centerX = (double)sumX / cnt;
 
  
 
-알고리즘의 한계
+### 알고리즘의 한계
 
  
 
@@ -66,7 +65,7 @@ double centerX = (double)sumX / cnt;
 
  
 
-시도했던 다른 알고리즘
+### 시도했던 다른 알고리즘
 
  
 
