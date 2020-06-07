@@ -5,11 +5,11 @@
 18년도 가을에 opencv를 이용해서 공부했었다.
 
 
-#프로젝트 명 : 빨간 공 찾기
-#프로젝트 기간 : 2018.11 ~ 2018.12
-#개발 단계 : 완성
-#기술 스택 : C++, openCV
-#소스 코드 : github.com/ssjf409/CV/tree/master/app/assignment/term_project
+## 프로젝트 명 : 빨간 공 찾기
+# 프로젝트 기간 : 2018.11 ~ 2018.12
+# 개발 단계 : 완성
+# 기술 스택 : C++, openCV
+# 소스 코드 : github.com/ssjf409/CV/tree/master/app/assignment/term_project
 프로젝트 내용
 개발 의도
 
